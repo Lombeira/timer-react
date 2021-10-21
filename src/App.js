@@ -98,5 +98,5 @@ const Count = styled.section`
 `;
 
 const Button3d = styled.section`
-  margin-top: 30rem;
+  margin-top: 22rem;
 `;

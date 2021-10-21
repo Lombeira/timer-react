@@ -20,7 +20,7 @@ export default NameForm;
 const Form = styled.input`
   font-size: 0.75rem;
   position: absolute;
-  margin-top: 42rem;
+  margin-top: 33rem;
   padding: 0.7rem;
   padding-left: 0.6rem;
   padding-right: 0.6rem;

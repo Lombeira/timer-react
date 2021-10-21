@@ -94,9 +94,9 @@ const Wrapper = styled.div`
 
 const Count = styled.section`
   position: absolute;
-  margin-top: 25rem;
+  margin-top: 20rem;
 `;
 
 const Button3d = styled.section`
-  margin-top: 30rem;
+  margin-top: 22rem;
 `;
